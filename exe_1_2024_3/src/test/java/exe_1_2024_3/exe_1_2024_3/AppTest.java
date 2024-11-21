@@ -3,7 +3,6 @@ package exe_1_2024_3.exe_1_2024_3;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-import org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.Test;
 /**
  * Unit test for simple App.
